@@ -63,6 +63,12 @@ The namespace has the following utilities:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`parseDuration`][@stdlib/time/base/parse-duration]</span><span class="delimiter">: </span><span class="description">parse a duration string into an object.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -174,6 +180,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/time-base/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/time/base/parse-duration]: https://github.com/stdlib-js/time-base-parse-duration
 
 <!-- </toc-links> -->
 
