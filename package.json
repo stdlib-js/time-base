@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/time-base",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Base (i.e., lower-level) time utilities.",
   "license": "Apache-2.0",
   "author": {
