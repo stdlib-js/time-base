@@ -31,13 +31,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import time from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/time-base/tags). For example,
+
+```javascript
 import time from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.0.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { parseDuration } from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.0.1-esm/index.mjs';
+import { parseDuration } from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
 ```
 
 #### time
@@ -88,7 +93,7 @@ The namespace has the following utilities:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.0.1-esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
