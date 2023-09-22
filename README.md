@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import time from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
+import time from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { parseDuration } from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
+import { parseDuration } from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.1.0-esm/index.mjs';
 ```
 
 #### time
@@ -99,7 +99,7 @@ The namespace has the following utilities:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-base@v0.1.0-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
