@@ -4,15 +4,24 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2026-01-25)
 
-<section class="packages">
+<section class="commits">
 
-### Packages
+### Commits
+
+<details>
+
+-   [`bfc8c3a`](https://github.com/stdlib-js/stdlib/commit/bfc8c3a7bcebf1a049c9e457ab440f540fd5c7a9) - **chore:** use one asterisk for license comment in TS files _(by Philipp Burckhardt)_
+-   [`2418246`](https://github.com/stdlib-js/stdlib/commit/241824670528518e87667d83512dab297367e43d) - **docs:** fix lint errors in example code _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
+-   [`6e9f42e`](https://github.com/stdlib-js/stdlib/commit/6e9f42e4c912485d9896eaa16c88b70fd3688e97) - **docs:** harmonize list formatting in repl.txt and ensure starting newline _(by Philipp Burckhardt)_
+
+</details>
 
 </section>
 
-<!-- /.packages -->
+<!-- /.commits -->
 
 <section class="contributors">
 
@@ -26,20 +35,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.contributors -->
 
-<section class="commits">
-
-### Commits
-
-<details>
-
--   [`6e9f42e`](https://github.com/stdlib-js/stdlib/commit/6e9f42e4c912485d9896eaa16c88b70fd3688e97) - **docs:** harmonize list formatting in repl.txt and ensure starting newline _(by Philipp Burckhardt)_
-
-</details>
-
-</section>
-
-<!-- /.commits -->
-
 </section>
 
 <!-- /.release -->
@@ -47,27 +42,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 2 people contributed to this release. Thank you to the following contributors:
-
--   Oneday12323
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -82,6 +56,19 @@ A total of 2 people contributed to this release. Thank you to the following cont
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Oneday12323
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -101,26 +88,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -135,6 +102,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -154,77 +133,15 @@ No changes reported for this release.
 
 ## 0.1.0 (2023-09-22)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="time-base-v0.1.0">
-
-#### [@stdlib/time/base](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/time/base)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="time-base-parse-duration-v0.1.0">
-
-#### [@stdlib/time/base/parse-duration](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/time/base/parse-duration)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75): update minimum TypeScript version
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -235,18 +152,6 @@ No changes reported for this release.
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -263,6 +168,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
